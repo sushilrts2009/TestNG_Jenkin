@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="loginpage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.348">
+    <properties></properties>
+
+
+
+            <testcase
+                name="login_page_validation"
+                time="3.348"
+                classname="pkg_day09.Login">
+            </testcase>
+</testsuite>

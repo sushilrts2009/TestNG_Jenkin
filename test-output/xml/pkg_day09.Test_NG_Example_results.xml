@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homepage"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.014">
+    <properties></properties>
+
+
+
+            <testcase
+                name="do_Some_Testing"
+                time="0.000"
+                classname="pkg_day09.Test_NG_Example">
+            </testcase>
+            <testcase
+                name="do_DevLap_Header_menu_Validation"
+                time="10.952"
+                classname="pkg_day09.Test_NG_Example">
+            </testcase>
+            <testcase
+                name="do_DevLab_Foorter_Validation"
+                time="1.062"
+                classname="pkg_day09.Test_NG_Example">
+            </testcase>
+</testsuite>

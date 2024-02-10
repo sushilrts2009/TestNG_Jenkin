@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GetStarted"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.033">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getstarted_page_validation"
+                time="0.033"
+                classname="docker_day09_assignment.Getstarted_Page">
+            </testcase>
+</testsuite>

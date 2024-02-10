@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="smoke" verbose="1">
+    <parameter name="saucedemo_url" value="https://www.saucedemo.com/"></parameter>
+
+    <test name="homepage">
+        <classes>
+            <class name="pkg_day10.login_Page" />
+        </classes>
+    </test>
+
+
+</suite>

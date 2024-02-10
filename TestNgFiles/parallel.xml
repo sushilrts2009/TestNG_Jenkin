@@ -1,0 +1,62 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="smoke" verbose="1" parallel="tests" thread-count="3">
+    <parameter name="docker_url" value="https://www.docker.com/"></parameter>
+
+    <test name="homepage_1">
+        <classes>
+            <class name="docker_day09_assignment.Home" />
+        </classes>
+    </test>
+
+
+    <test name="homepage_2">
+        <classes>
+            <class name="docker_day09_assignment.Home" />
+        </classes>
+    </test>
+
+    <test name="homepage_3">
+        <classes>
+            <class name="docker_day09_assignment.Home" />
+        </classes>
+    </test>
+
+
+    <test name="loginpage_1">
+        <classes>
+            <class name="docker_day09_assignment.SignIn_Page" />
+        </classes>
+    </test>
+
+    <test name="loginpage_2">
+        <classes>
+            <class name="docker_day09_assignment.SignIn_Page" />
+        </classes>
+    </test>
+
+    <test name="loginpage_3">
+        <classes>
+            <class name="docker_day09_assignment.SignIn_Page" />
+        </classes>
+    </test>
+
+    <test name="GetStarted_1">
+        <classes>
+            <class name="docker_day09_assignment.Getstarted_Page" />
+        </classes>
+    </test>
+
+    <test name="GetStarted_2">
+        <classes>
+            <class name="docker_day09_assignment.Getstarted_Page" />
+        </classes>
+    </test>
+
+    <test name="GetStarted_3">
+        <classes>
+            <class name="docker_day09_assignment.Getstarted_Page" />
+        </classes>
+    </test>
+
+</suite>

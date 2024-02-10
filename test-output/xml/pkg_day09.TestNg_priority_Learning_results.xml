@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Priority_Learning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.001">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Pr_001"
+                time="0.001"
+                classname="pkg_day09.TestNg_priority_Learning">
+            </testcase>
+            <testcase
+                name="Pr_002"
+                time="0.000"
+                classname="pkg_day09.TestNg_priority_Learning">
+            </testcase>
+            <testcase
+                name="Pr_003"
+                time="0.000"
+                classname="pkg_day09.TestNg_priority_Learning">
+            </testcase>
+</testsuite>

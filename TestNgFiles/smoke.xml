@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="smoke" verbose="1">
+    <parameter name="devlab_url" value="https://www.devlabsalliance.com/"></parameter>
+
+    <test name="homepage">
+        <classes>
+            <class name="pkg_day09.Test_NG_Example" />
+        </classes>
+    </test>
+
+    <test name="loginpage">
+        <classes>
+            <class name="pkg_day09.Login" />
+        </classes>
+    </test>
+</suite>

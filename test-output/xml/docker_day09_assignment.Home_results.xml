@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homepage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.082">
+    <properties></properties>
+
+
+
+            <testcase
+                name="homepage_validation"
+                time="0.082"
+                classname="docker_day09_assignment.Home">
+            </testcase>
+</testsuite>

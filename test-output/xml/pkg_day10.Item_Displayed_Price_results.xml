@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG_Maven_Project"
+           tests="3"
+           failures="1"
+           errors="0"
+           skipped="2"
+           time="-1706461220.532">
+    <properties></properties>
+
+            <testcase
+                name="lanch_browser"
+                time="-1706461220.533"
+                classname="pkg_day10.Item_Displayed_Price">
+
+            <failure type="org.testng.TestNGException" message="
+Parameter &apos;saucedemo_url&apos; is required by BeforeClass on method lanch_browser but has not been marked @Optional or defined
+in C:\Users\sushi\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml">
+                <![CDATA[org.testng.TestNGException: 
+Parameter 'saucedemo_url' is required by BeforeClass on method lanch_browser but has not been marked @Optional or defined
+in C:\Users\sushi\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+                org.testng.internal.Parameters.createParams(Parameters.java:267)org.testng.internal.Parameters.createParametersForMethod(Parameters.java:355)org.testng.internal.Parameters.createParameters(Parameters.java:693)org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:306)org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180)org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122)java.base/java.util.ArrayList.forEach(ArrayList.java:1511)org.testng.TestRunner.privateRun(TestRunner.java:819)org.testng.TestRunner.run(TestRunner.java:619)org.testng.SuiteRunner.runTest(SuiteRunner.java:443)org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)org.testng.SuiteRunner.run(SuiteRunner.java:336)org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)org.testng.TestNG.runSuitesLocally(TestNG.java:1228)org.testng.TestNG.runSuites(TestNG.java:1134)org.testng.TestNG.run(TestNG.java:1101)com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </failure>
+    </testcase>
+
+            <testcase
+                name="close_browser"
+                time="0.0"
+                classname="pkg_day10.Item_Displayed_Price">
+            </testcase>
+            <testcase
+                name="login_page_validation"
+                time="0.0"
+                classname="pkg_day10.Item_Displayed_Price">
+            </testcase>
+
+</testsuite>

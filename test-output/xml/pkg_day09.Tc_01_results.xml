@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG_Maven_Project"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="29.458">
+    <properties></properties>
+
+
+
+            <testcase
+                name="do_DevLap_Header_menu_Validation"
+                time="25.859"
+                classname="pkg_day09.Tc_01">
+            </testcase>
+            <testcase
+                name="do_Some_Testing"
+                time="0.000"
+                classname="pkg_day09.Tc_01">
+            </testcase>
+            <testcase
+                name="do_DevLab_Foorter_Validation"
+                time="3.599"
+                classname="pkg_day09.Tc_01">
+            </testcase>
+</testsuite>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression1"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.005">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Tc_003"
+                time="0.002"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+            <testcase
+                name="Tc_002"
+                time="0.000"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+            <testcase
+                name="Tc_007"
+                time="0.001"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+            <testcase
+                name="Tc_004"
+                time="0.000"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+            <testcase
+                name="Tc_005"
+                time="0.000"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+            <testcase
+                name="Tc_001"
+                time="0.001"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+            <testcase
+                name="Tc_006"
+                time="0.001"
+                classname="pkg_day09.Second_Example_Tags">
+            </testcase>
+</testsuite>
