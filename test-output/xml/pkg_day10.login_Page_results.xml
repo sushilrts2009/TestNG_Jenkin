@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="28.922">
+           time="29.090">
     <properties></properties>
 
 
 
             <testcase
                 name="login_page_validation"
-                time="28.922"
+                time="29.090"
                 classname="pkg_day10.login_Page">
             </testcase>
 </testsuite>
